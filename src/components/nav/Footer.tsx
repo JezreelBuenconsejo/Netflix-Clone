@@ -1,4 +1,3 @@
-import { Globe, ChevronDown } from "lucide-react";
 import {
   Select,
   SelectContent,
@@ -110,7 +109,7 @@ export const Footer = () => {
           <p className="text-gray-400 text-sm">Netflix Philippines</p>
 
           <p className="text-gray-400 text-xs">
-            This page is protected by Google reCAPTCHA to ensure you're not a
+            This page is protected by Google reCAPTCHA to ensure you&apos;re not a
             bot.{" "}
             <span className="text-blue-500 underline cursor-pointer">
               Learn more.

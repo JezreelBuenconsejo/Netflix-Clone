@@ -1,4 +1,4 @@
-import { ChevronRight, ChevronsLeftRight } from "lucide-react";
+import { ChevronRight } from "lucide-react";
 import { Button } from "../ui/button";
 import { FloatingInput } from "../ui/floating-input";
 import Link from "next/link";
